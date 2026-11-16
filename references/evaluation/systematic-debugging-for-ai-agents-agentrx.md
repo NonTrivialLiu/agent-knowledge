@@ -3,9 +3,9 @@ title: "Systematic debugging for AI agents: Introducing the AgentRx framework"
 url: https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/
 published: 2026-03-12
 fetched: 2026-11-13
-type: engineering-blog  # paper / engineering-blog / docs / abstract / analysis
-topics: [分类名, 来源方, 2-3个关键词]
-summary: "一行中文摘要，≤120字，写清这条内容的独特增量"
+type: engineering-blog
+topics: [evaluation, microsoft, debugging]
+summary: "AgentRx 框架：把 agent 失败当成可系统调试的对象，从轨迹定位根因而非反复盲试。"
 ---
 
 # Systematic debugging for AI agents: Introducing the AgentRx framework

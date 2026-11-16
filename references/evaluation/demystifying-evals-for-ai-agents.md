@@ -3,9 +3,9 @@ title: "Demystifying evals for AI agents"
 url: https://www.anthropic.com/research/demystifying-evals-for-ai-agents
 published: 2026-01-09
 fetched: 2026-11-13
-type: engineering-blog  # paper / engineering-blog / docs / abstract / analysis
-topics: [分类名, 来源方, 2-3个关键词]
-summary: "一行中文摘要，≤120字，写清这条内容的独特增量"
+type: engineering-blog
+topics: [evaluation, anthropic, evals]
+summary: "Anthropic 评测工程全景：拆解评测类型、常见陷阱与可信结论的条件，适合建立评测体系词汇。"
 ---
 
 # Demystifying evals for AI agents

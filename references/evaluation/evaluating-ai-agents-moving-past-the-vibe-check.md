@@ -3,9 +3,9 @@ title: "Evaluating AI agents: moving past the vibe check"
 url: https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/
 published: 2026-10-15
 fetched: 2026-11-13
-type: engineering-blog  # paper / engineering-blog / docs / abstract / analysis
-topics: [分类名, 来源方, 2-3个关键词]
-summary: "一行中文摘要，≤120字，写清这条内容的独特增量"
+type: engineering-blog
+topics: [evaluation, google, evals]
+summary: "Google 开发者博客：走出'感觉不错'式评测，给出可复现评测的设计清单与实践路径。"
 ---
 
 # Evaluating AI agents: moving past the vibe check
