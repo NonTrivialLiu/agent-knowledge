@@ -53,12 +53,13 @@ ln -s ~/.agents/skills/agent-knowledge ~/.zcode/skills/agent-knowledge
 依赖：`rg`、`python3`；抓取用 `uv run scripts/fetch.py`（依赖由 inline
 metadata 自动解析）。
 
-## 内容自建
+## 语料与版权
 
-仓库**只含框架，不含语料**——正文是各自抓取的第三方全文，请按
-`references/ingest.md` 的七步流程为自己的领域建库（去重 → 抓取 →
-frontmatter → 分类 → lint → catalog）。首次建库可批量执行，随后由
-智能体在日常使用中自迭代维护。
+仓库自带一套 agent 工程语料（约 175 篇：Anthropic/OpenAI/Google/DeepSeek
+工程博客、arXiv 论文、官方文档的本地 Markdown 副本，及自写的 synthesis
+综合文章）。所有正文 frontmatter 保留原文 `url`，**版权归原作者所有**，
+此处仅作个人研究归档；原作者如要求移除，提 issue 即删。
+想替换为自己的领域语料，按 `references/ingest.md` 七步建库即可。
 
 ## 维护
 

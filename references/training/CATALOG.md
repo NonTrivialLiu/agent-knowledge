@@ -1,0 +1,34 @@
+<!-- 由 scripts/kb.py catalog 再生；手写必被覆盖。检索用 rg；单篇细节 head -8。 -->
+# training · 31 篇（⭐ core 置顶，余按日期倒序）
+
+- ⭐ [Harness adapters: Safe RL for efficient agentic development](harness-adapters-safe-rl-for-efficient-agentic-development.md) · 2026-11-06 · training, huggingface, harness
+- ⭐ [Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses](agent-lightning-v1-0-a-3-500-line-lightweight-agentic-rl-framework-for-training.md) · 2026-10-07 · training, microsoft, harness
+- ⭐ [Kimi K2.5: Visual Agentic Intelligence](kimi-k2-5-visual-agentic-intelligence.md) · 2026-01-29 · training, moonshot
+- [What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?](what-does-multi-turn-reinforcement-learning-really-improve-in-llm-agents.md) · 2026-11-04 · training
+- [The sleep framework: A new way for LLMs to retain knowledge in continual learning](the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning.md) · 2026-10-27 · training, google
+- [Kimi K3.1 Pro: Advancing Open Intelligence](kimi-k3-1-pro-advancing-open-intelligence.md) · 2026-10-24 · training, moonshot
+- [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](agent-world-model-in-the-wild-computer-use-agent-environment-synthesis.md) · 2026-10-19 · training
+- [Priming Base Models for Agentic Post-Training: An Open Midtraining Recipe](priming-base-models-for-agentic-post-training-an-open-midtraining-recipe.md) · 2026-10-15 · training
+- [ProgAgent: Learning Tool Orchestration through Programmatic Training](progagent-learning-tool-orchestration-through-programmatic-training.md) · 2026-10 · training, tools, ptc
+- [QwenGyre: An Elastic Reinforcement Learning Framework for Training xLong-Horizon Agents](qwengyre-an-elastic-reinforcement-learning-framework-for-training-xlong-horizon.md) · 2026-09-27 · training, multi-agent, long-running
+- [Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents](qwen-planner-agent-a-closed-loop-ai-for-ai-framework-for-real-world-mobile-plann.md) · 2026-09-24 · training, multi-agent
+- [ToolGrad: Efficient tool-use dataset generation with textual gradients](toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients.md) · 2026-09-10 · training, google, tools
+- [Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails](co-evolving-harnesses-and-models-on-policy-correction-helps-weaker-models-catch.md) · 2026-09-08 · training, harness
+- [How We Build Agent Environments & Tasks](how-we-build-agent-environments-tasks.md) · 2026-08-25 · training, langchain
+- [Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents](qwen-ui-agent-technical-report-toward-next-generation-real-world-centric-foundat.md) · 2026-07-30 · training, multi-agent
+- [Kimi K3: Open Frontier Intelligence](kimi-k3-open-frontier-intelligence.md) · 2026-07-16 · training, moonshot
+- [Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use](can-agents-generalize-to-the-open-world-unveiling-the-fragility-of-static-traini.md) · 2026-07 · training, tools, multi-agent
+- [TRACE: Capability-Targeted Agentic Training](trace-capability-targeted-agentic-training.md) · 2026-07 · training
+- [Qwen-AgentWorld: Language World Models for General Agents](qwen-agentworld-language-world-models-for-general-agents.md) · 2026-06-25 · training, qwen, multi-agent
+- [HarnessForge: Joint Harness and Policy Evolution for Adaptive Agent Systems](harnessforge-joint-harness-and-policy-evolution-for-adaptive-agent-systems.md) · 2026-06-01 · training, harness
+- [AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use](agenticqwen-training-small-agentic-language-models-with-dual-data-flywheels-for.md) · 2026-04-23 · training, tools
+- [Qwen3-Coder-Next Technical Report](qwen3-coder-next-technical-report.md) · 2026-02-28 · training
+- [GLM-5: from Vibe Coding to Agentic Engineering](glm-5-from-vibe-coding-to-agentic-engineering.md) · 2026-02-17 · training
+- [Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning](agent-world-model-infinity-synthetic-environments-for-agentic-reinforcement-lear.md) · 2026-02-10 · training
+- [Agent World Model (AWM) for Scalable Agentic RL Environments](agent-world-model-awm-for-scalable-agentic-rl-environments.md) · 2026-02 · training, snowflake
+- [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](deepseek-v3-2-pushing-the-frontier-of-open-large-language-models.md) · 2025-12-01 · training
+- [RLVE: Scaling Up Reinforcement Learning for Language Models with Adaptive Verifiable Environments](rlve-scaling-up-reinforcement-learning-for-language-models-with-adaptive-verifia.md) · 2025-11 · training
+- [Agent Learning via Early Experience](agent-learning-via-early-experience.md) · 2025-10-09 · training
+- [A Practitioner's Guide to Multi-turn Agentic Reinforcement Learning](a-practitioner-s-guide-to-multi-turn-agentic-reinforcement-learning.md) · 2025-10-01 · training
+- [Procedural Environment Generation for Tool-Use Agents](procedural-environment-generation-for-tool-use-agents.md) · 2025-05-21 · training, tools, multi-agent
+- [Training Software Engineering Agents and Verifiers with SWE-Gym](training-software-engineering-agents-and-verifiers-with-swe-gym.md) · 2024-12-30 · training, multi-agent

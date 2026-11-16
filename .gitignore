@@ -1,5 +1,2 @@
-# 正文语料不入库：第三方全文版权属于原作者，使用者按 ingest.md 自建
-references/*
-!references/ingest.md
 .DS_Store
 __pycache__/
