@@ -1,5 +1,5 @@
 <!-- 由 scripts/kb.py catalog 再生；手写必被覆盖。检索用 rg；单篇细节 head -8。 -->
-# training · 31 篇（⭐ core 置顶，余按日期倒序）
+# training · 32 篇（⭐ core 置顶，余按日期倒序）
 
 - ⭐ [Harness adapters: Safe RL for efficient agentic development](harness-adapters-safe-rl-for-efficient-agentic-development.md) · 2026-11-06 · training, huggingface, harness
 - ⭐ [Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses](agent-lightning-v1-0-a-3-500-line-lightweight-agentic-rl-framework-for-training.md) · 2026-10-07 · training, microsoft, harness
@@ -20,6 +20,7 @@
 - [Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use](can-agents-generalize-to-the-open-world-unveiling-the-fragility-of-static-traini.md) · 2026-07 · training, tools, multi-agent
 - [TRACE: Capability-Targeted Agentic Training](trace-capability-targeted-agentic-training.md) · 2026-07 · training
 - [Qwen-AgentWorld: Language World Models for General Agents](qwen-agentworld-language-world-models-for-general-agents.md) · 2026-06-25 · training, qwen, multi-agent
+- [The Interplay of Harness Design and Post-Training in LLM Agents](the-interplay-of-harness-design-and-post-training-in-llm-agents.md) · 2026-06-24 · training, harness, tool-schema
 - [HarnessForge: Joint Harness and Policy Evolution for Adaptive Agent Systems](harnessforge-joint-harness-and-policy-evolution-for-adaptive-agent-systems.md) · 2026-06-01 · training, harness
 - [AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use](agenticqwen-training-small-agentic-language-models-with-dual-data-flywheels-for.md) · 2026-04-23 · training, tools
 - [Qwen3-Coder-Next Technical Report](qwen3-coder-next-technical-report.md) · 2026-02-28 · training

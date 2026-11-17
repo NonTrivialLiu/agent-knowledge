@@ -4,7 +4,7 @@ url: https://www.anthropic.com/research/multiagent-systems
 published: 2026-08-13
 fetched: 2026-11-11
 type: engineering-blog
-topics: [multi-agent, anthropic]
+topics: [multi-agent, anthropic, subagent]
 summary: "多智能体实战和边界：协调群体与独立并行在漏洞发现的不同任务覆盖、token 成本、互补性；266 对 21 不是公平效率比较，前者 2700 万 tokens 后者 650 万且搜索范围不同。"
 ---
 

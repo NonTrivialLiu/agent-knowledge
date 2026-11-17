@@ -3,7 +3,6 @@ title: "Why Do Multi-Agent LLM Systems Fail?"
 url: https://arxiv.org/abs/2503.13657
 published: 2025-03-17
 fetched: 2026-11-11
-priority: core
 type: paper
 topics: [multi-agent]
 summary: "基于多agent轨迹构建14类失败模式，覆盖系统设计、协作失配、验证和停止；适合用失败案例理解协调成本。"

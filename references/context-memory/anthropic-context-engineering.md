@@ -4,7 +4,7 @@ url: https://www.anthropic.com/engineering/effective-context-engineering-for-ai-
 fetched: 2026-09-26
 priority: core
 type: engineering-blog
-topics: [context-memory, anthropic, just-in-time]
+topics: [context-memory, anthropic, just-in-time, subagent]
 summary: "上下文组成、检索与长任务信息管理的工程深入解释。"
 ---
 

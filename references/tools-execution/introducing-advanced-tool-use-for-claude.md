@@ -5,7 +5,7 @@ published: 2025-11-24
 fetched: 2026-11-11
 priority: core
 type: engineering-blog
-topics: [tools-execution, anthropic, tools]
+topics: [tools-execution, anthropic, tools, subagent]
 summary: "PTC、Tool Search、Tool Use Examples 三机制的直接源头：程序化组合循环筛选中间结果，工具按需发现，示例补足 schema 语义；关注具体实验设置。"
 ---
 

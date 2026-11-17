@@ -1,5 +1,5 @@
 <!-- 由 scripts/kb.py catalog 再生；手写必被覆盖。检索用 rg；单篇细节 head -8。 -->
-# evaluation · 27 篇（⭐ core 置顶，余按日期倒序）
+# evaluation · 28 篇（⭐ core 置顶，余按日期倒序）
 
 - ⭐ [How to build a better agent harness with traces and evals](arize-agent-harness-traces-evals.md) · 日期未知 · evaluation, arize, traces
 - ⭐ [Measuring AI Ability to Complete Long Software Tasks](metr-long-software-tasks.md) · 日期未知 · evaluation, metr, time-horizon
@@ -25,6 +25,7 @@
 - [We are Changing our Developer Productivity Experiment Design](we-are-changing-our-developer-productivity-experiment-design.md) · 2026-02-24 · evaluation, metr
 - [Measuring AI agent autonomy in practice](measuring-ai-agent-autonomy-in-practice.md) · 2026-02-18 · evaluation, anthropic
 - [Quantifying infrastructure noise in agentic coding evals](quantifying-infrastructure-noise-in-agentic-coding-evals.md) · 2026-02-05 · evaluation, anthropic
+- [AgentRx : Diagnosing AI Agent Failures from Execution Trajectories](agentrx-trajectory-diagnosis-paper.md) · 2026-02-02 · evaluation, trajectory, diagnosis
 - [Demystifying evals for AI agents](demystifying-evals-for-ai-agents.md) · 2026-01-09 · evaluation, anthropic, evals
 - [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](measuring-the-impact-of-early-2025-ai-on-experienced-open-source-developer-produ.md) · 2025-07-10 · evaluation, metr
 - [New paper: AI agents that matter](new-paper-ai-agents-that-matter.md) · 2024-07-03 · evaluation, normaltech, multi-agent

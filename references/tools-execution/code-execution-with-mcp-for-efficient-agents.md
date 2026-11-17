@@ -5,7 +5,7 @@ published: 2025-11-04
 fetched: 2026-11-11
 priority: core
 type: engineering-blog
-topics: [tools-execution, anthropic, mcp, multi-agent]
+topics: [tools-execution, anthropic, mcp, multi-agent, subagent]
 summary: "MCP 工具暴露为文件形式代码 API，按需发现与在沙盒预处理工具返回结果；解释程序化编排的概念基础。"
 ---
 

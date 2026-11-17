@@ -5,7 +5,7 @@ published: 2025-07-18
 fetched: 2026-11-11
 priority: core
 type: engineering-blog
-topics: [context-memory, manus, context]
+topics: [context-memory, manus, context, subagent]
 summary: "KV缓存、工具遮蔽、文件系统、错误保留等生产取舍；与当前工具搜索方案对照阅读。"
 ---
 
